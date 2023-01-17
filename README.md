@@ -1,6 +1,6 @@
 # SuperMarket-Data-Analysis
 
-In this project, I will analyze data from a supermarket chain.
+In this project, I analyzed data from a supermarket chain.
 
 The data includes information on each sale during the first quarter of 2019.
 
